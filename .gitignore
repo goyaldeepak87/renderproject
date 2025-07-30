@@ -1,0 +1,20 @@
+# Dependencies
+node_modules
+
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+# .env*
+!.env*.example
+
+# Code coverage
+coverage
+
+1yarn.lock
+
+.env
+
+1dockerignore
+1docker-compose.dev.yml
+1docker-compose.prod.yml
